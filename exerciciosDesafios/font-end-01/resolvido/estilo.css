@@ -1,17 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
-@media print {
-    p {
-        color: red;
-    }
-
-    img {
-        display: none;
-    }
-}
-
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Arial', sans-serif;
 }
 
 .container {
