@@ -10,6 +10,9 @@ body {
     height: 200vh;
 }
 
+
+/* Estilo para o arquivo posicionamento.html */
+
 .adesivo {
     width: 500px;
     height: 50px;
@@ -54,4 +57,26 @@ body {
     top: 25px;
     line-height: 200px;
     z-index: 2;
+}
+
+
+
+
+/* Estilo para o arquivo exibicao.html */
+
+.container {
+    background-color: yellow;
+    height: 400px;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.div {
+    background-color: red;
+    text-align: right;
+    margin: 10px;
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
 }
