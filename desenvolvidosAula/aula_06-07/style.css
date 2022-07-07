@@ -1,3 +1,9 @@
 .lampada {
     margin-left: 20px;
 }
+
+.dia-semana {
+    font-weight: bold;
+    color: tomato;
+    text-transform:uppercase;
+}
